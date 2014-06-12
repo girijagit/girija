@@ -1,0 +1,9 @@
+diff --git a/git1/g4 b/git1/g4
+index 1f78410..6353680 100644
+--- a/git1/g4
++++ b/git1/g4
+@@ -1,2 +1,4 @@
+  hai 
+  how are you
++ this is 
++ what i asked
