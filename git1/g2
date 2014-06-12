@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+	scanf("%d",&f);
+	printf("the read number is f",%d);
+	printf("have a nice day");
+}
